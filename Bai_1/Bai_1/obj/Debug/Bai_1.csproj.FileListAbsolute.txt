@@ -1,0 +1,7 @@
+D:\T3H\code\Buoi_5\Bai_1\Bai_1\obj\Debug\Bai_1.csproj.AssemblyReference.cache
+D:\T3H\code\Buoi_5\Bai_1\Bai_1\obj\Debug\Bai_1.csproj.CoreCompileInputs.cache
+D:\T3H\code\Buoi_5\Bai_1\Bai_1\bin\Debug\Bai_1.exe.config
+D:\T3H\code\Buoi_5\Bai_1\Bai_1\bin\Debug\Bai_1.exe
+D:\T3H\code\Buoi_5\Bai_1\Bai_1\bin\Debug\Bai_1.pdb
+D:\T3H\code\Buoi_5\Bai_1\Bai_1\obj\Debug\Bai_1.exe
+D:\T3H\code\Buoi_5\Bai_1\Bai_1\obj\Debug\Bai_1.pdb
